@@ -147,7 +147,7 @@ Request dikirim dengan method GET ke alamat http://localhost:8080/post untuk men
 ![Screenshot Form Tambah](gambar/semuadata.png)
 
 2. Menampilkan Data Spesifik
-Request dikirim dengan method GET ke alamat http://localhost:8080/post.
+Request dikirim dengan method GET ke alamat http://localhost:8080/post/2.
 
 ![Screenshot Form Tambah](gambar/dataspesifik.png)
 
